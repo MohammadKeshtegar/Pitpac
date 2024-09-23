@@ -1,4 +1,4 @@
-/dist
-/buid
+dist/
+buid/
 pitpac.spec
 requirements.txt
